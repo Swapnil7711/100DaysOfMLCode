@@ -7,4 +7,4 @@
 **What I Implemented** : Implemented One Hot Encoding and Rock - Mine Prediction Problem (DataSet Source - Kaggle). Getting **ERROR** Attempting to use uninitialized value Variable even after using **sess.run(tf.global_variables_initializer())** 
 
 
-**Link of Work:** [Commit]()
+**Link of Work:** [Commit](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%201)
