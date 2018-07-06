@@ -1,2 +1,2 @@
 # 100DaysOfMLCode
-This repository contains code for @sirajRavel's 100DaysOfMLCode Challange.
+This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
