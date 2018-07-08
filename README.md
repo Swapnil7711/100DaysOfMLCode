@@ -20,6 +20,8 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 
 **Link of Work:** [Commit](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%201)
 
+## Day 3 : Jul 8 , 2018
+
 **What I Learned** : Learned about Data Cleaning. But I feel I need to learn more about data cleaning. 
 
 **What I Implemented** : Tried to clean and analyse two datasets. Cleaned data and Implemented House Price Prediction Kaggle problem.  
