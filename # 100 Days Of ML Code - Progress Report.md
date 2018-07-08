@@ -1,6 +1,3 @@
-# 100DaysOfMLCode
-This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
-
 # 100 Days Of ML Code - Progress Report
 
 ## Day 1 : Jul 6 , 2018
