@@ -27,3 +27,11 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 **What I Implemented** : Tried to clean and analyse two datasets. Cleaned data and Implemented House Price Prediction Kaggle problem.  
 
 **Link of Work:** [Commit](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%203)
+
+## Day 4 : Jul 9 , 2018
+
+**What I Learned** : Learned more about Data Cleaning. Learned to handle Categorical and numerical value in Dataset.
+
+**What I Implemented** : Cleaned few more dataset. Implemented Titanic Kaggle Project. Tried to implement House Price Prediction Problme with Tensorflow and Neural Network, getting few erros.  
+
+**Link of Work:** [Commit](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%204)
