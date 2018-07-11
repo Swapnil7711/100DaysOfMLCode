@@ -48,6 +48,6 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 
 **What I Learned** : Importance of Feature Scaling.
 
-**What I Implemented** : Tried to implement yesterdays project with Neural Network using Tensorflow spent entire day trying figure out single error. Still not getting high accuracy result. 
+**What I Implemented** : Tried to implement yesterdays project with Neural Network using Tensorflow spent entire day trying figure out single error. Still not getting high accuracy result. Need to Learn Parameter tuning. 
 
 **Link of Work:** [Link](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%206)
