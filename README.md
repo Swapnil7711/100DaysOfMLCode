@@ -26,7 +26,7 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 
 **What I Implemented** : Tried to clean and analyse two datasets. Cleaned data and Implemented House Price Prediction Kaggle problem.  
 
-**Link of Work:** [Commit](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%203)
+**Link of Work:** [Link](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%203)
 
 ## Day 4 : Jul 9 , 2018
 
@@ -34,7 +34,7 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 
 **What I Implemented** : Cleaned few more dataset. Implemented Titanic Kaggle Project. Tried to implement House Price Prediction Problme with Tensorflow and Neural Network, getting few erros.  
 
-**Link of Work:** [Commit](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%204)
+**Link of Work:** [Link](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%204)
 
 ## Day 5 : Jul 10 , 2018
 
@@ -42,4 +42,12 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 
 **What I Implemented** : Implemented full project of DrivenData Pump it Up: Data Mining the Water Table.
 
-**Link of Work:** [Commit](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%205)
+**Link of Work:** [Link](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%205)
+
+## Day 6 : Jul 11 , 2018
+
+**What I Learned** : Importance of Feature Scaling.
+
+**What I Implemented** : Tried to implement yesterdays project with Neural Network using Tensorflow spent entire day trying figure out single error. Still not getting high accuracy result. 
+
+**Link of Work:** [Link](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%206)
