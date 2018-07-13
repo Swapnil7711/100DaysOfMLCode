@@ -57,3 +57,9 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 **What I Learned** : KNN Algorithm.
 
 **What I Implemented** : Tried to improve accuracy of Deep Neural Network. 
+
+## Day 08 : Jul 13 , 2018
+
+**What I Learned** : Started DeepLearning.AI course on Coursera.
+
+**What I Implemented** : Implemented DrivenData Warm Up: Predict Blood Donations. 
