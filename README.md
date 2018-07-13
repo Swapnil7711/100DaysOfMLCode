@@ -51,3 +51,9 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 **What I Implemented** : Tried to implement yesterdays project with Neural Network using Tensorflow spent entire day trying figure out single error. Still not getting high accuracy result. Need to Learn Parameter tuning. 
 
 **Link of Work:** [Link](https://github.com/Swapnil7711/100DaysOfMLCode/tree/master/Day%206)
+
+## Day 7 : Jul 12 , 2018
+
+**What I Learned** : KNN Algorithm.
+
+**What I Implemented** : Tried to improve accuracy of Deep Neural Network. 
