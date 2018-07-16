@@ -63,3 +63,15 @@ This repository contains code for @sirajRaval's 100DaysOfMLCode Challange.
 **What I Learned** : Started DeepLearning.AI course on Coursera.
 
 **What I Implemented** : Implemented DrivenData Warm Up: Predict Blood Donations. 
+
+## Day 09 : Jul 14 , 2018
+
+**What I Learned** : Learned sklearn functions from youtube.
+
+**What I Implemented** : Started new project from Kaggle. 
+
+## Day 10 : Jul 14 , 2018
+
+**What I Learned** : .
+
+**What I Implemented** : Still Working on same project. 
